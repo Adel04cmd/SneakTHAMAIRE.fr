@@ -1,0 +1,111 @@
+h1
+{
+	font-size: 50px;
+	font-weight: bold;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	color: rgb(79, 11, 196);
+
+}
+
+h2
+{
+	font-size: 36px;
+	margin-left: 10%;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+
+}
+
+p
+{
+	font-family: Brush Script MT, Brush Script Std, cursive;
+
+	font-size: 26px; 
+	
+	width: 65%;
+	min-width: 400px;
+	margin: 50px;
+
+}
+
+section
+{
+	
+	background-image: url("logo2.jpeg") fixed no-repeat top left;
+	margin-left: 350px;
+	margin-right: 300px;
+	background-color: rgb(241, 241, 241);
+	background-color-size: 75%;
+	
+}
+
+
+.image
+{
+	
+	width:  300px;
+	height: 300px;
+	align-items: center;
+}
+header
+{
+	background-color: rgb(79, 11, 196);
+	margin: 0px;
+	
+}
+body
+{
+	background-color: white;
+	
+	
+	
+}
+
+nav
+{
+	color: black;
+    float: left;
+    width: 300px;
+    border-radius: 10px  white;
+    margin-left: 2%; 
+    background-color: rgb(144, 165, 175);
+    font-size: 40px; 
+}
+
+aside
+{
+	margin-right: 2%; 
+}
+
+.ctc
+{
+	width: 50px;
+	height:50px;
+}
+.twi
+{
+	height: 50px;
+	width: 30px;
+}
+h3
+{
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	font-size: 25px;
+}
+
+ul{
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	font-size: 18px;
+}
+.sg
+{
+width: 310px;
+height: 1000px;
+}
+
+.vgt
+{
+	margin-right: 2%;
+	width: 310px;
+	height: 1000px;
+}
+

@@ -1,0 +1,26 @@
+h1
+{
+	font-size: 50px;
+	font-weight: bold;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	color: grey
+}
+
+h2
+{
+	font-size: 28px;
+	color: grey; 
+}
+
+p
+{
+	color: grey; 
+	font-size: 18px; 
+	text-align: center;
+}
+
+body
+{
+	color: grey
+	background-image: url("logo.png") fixed no-repeat top left;
+}
